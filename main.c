@@ -2,6 +2,7 @@
 
 #include "Uart.h"
 
+#deinfe XXXXX                -1
 #define NOKEY                 0
 #define PUSH_KEY              1
 #define LONG_KEY              2
